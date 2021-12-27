@@ -1,3 +1,3 @@
-# ajax-project
+# final-project
 
-A dynamic HTML, CSS, and JavaScript solo project.
+A full stack JavaScript solo project.
